@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sentence Capitalizer", "Sentence Capitalizer.csproj", "{06EA9E12-55EB-4B5A-BE82-A972C6E01D38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06EA9E12-55EB-4B5A-BE82-A972C6E01D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EA9E12-55EB-4B5A-BE82-A972C6E01D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EA9E12-55EB-4B5A-BE82-A972C6E01D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EA9E12-55EB-4B5A-BE82-A972C6E01D38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38D6BC48-7DE9-4981-A101-41E32DD2D78C}
+	EndGlobalSection
+EndGlobal
