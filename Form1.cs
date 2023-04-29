@@ -21,6 +21,8 @@ namespace Sentence_Capitalizer
 
         private void btnCapitalize_Click(object sender, EventArgs e)
         {
+            lblOutCapitalized.Text = "";
+
             string sentence = tboxSentence.Text.Trim();
             bool isCapital = true;
 
